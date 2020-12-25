@@ -1,0 +1,26 @@
+.Input {
+    width: 100%;
+}
+
+.Input label {
+    margin-bottom: 3px;
+    padding: 0;
+    display: block;
+}
+
+.Input input {
+    display: block;
+    box-sizing: border-box;
+    border: 1px solid #bebebe;
+    padding: 5px;
+    margin: 0 0 5px;
+    width: 100%;
+    outline: none;
+    border-radius: 5px;
+}
+.error {
+    color: red;
+}
+.invalid{
+    color: red;
+}

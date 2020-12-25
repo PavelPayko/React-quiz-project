@@ -1,0 +1,30 @@
+.Drawer {
+    z-index: 2;
+    background-color: rgba(255, 255, 255, .8);
+    width: 200px;
+    height: 100%;
+    position: fixed;
+}
+
+.Drawer ul {
+    margin: 0;
+    padding: 40px 0;
+    list-style-type: none;
+    text-align: center
+}
+
+.Drawer ul li {
+    padding-bottom: 10px;
+
+}
+
+.Drawer a {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.close {
+    transform: translateX(-300px);
+}

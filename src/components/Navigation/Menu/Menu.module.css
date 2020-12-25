@@ -1,0 +1,8 @@
+.Menu {
+    position: fixed;
+    z-index: 1;
+    font-size: 20px;
+}
+.open {
+    left: 210px;
+}

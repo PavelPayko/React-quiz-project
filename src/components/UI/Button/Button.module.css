@@ -1,0 +1,16 @@
+.Button {
+    width: 160px;
+    margin: 10px;
+    height: 40px;
+    border-radius: 5px;
+}
+.Button:disabled {
+    background: #ccc;
+    color: #000;
+    cursor: not-allowed;
+}
+.normal {
+    background-color: lightgreen;
+    color: black;
+    font-weight: 600;
+}

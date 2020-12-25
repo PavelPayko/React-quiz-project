@@ -1,0 +1,25 @@
+.Final {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.Final p {
+    text-align: center;
+}
+.Final ul {
+    margin: 0;
+    padding: 0;
+   list-style-type: none;
+}
+
+.Final li {
+    margin: 0 0 5px 20px
+}
+
+.controls {
+    display: flex;
+    justify-content: space-evenly;
+}

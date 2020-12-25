@@ -1,0 +1,15 @@
+.QuizCreator {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.QuizCreator form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.QuizCreator input {
+    margin-bottom: 10px;
+}

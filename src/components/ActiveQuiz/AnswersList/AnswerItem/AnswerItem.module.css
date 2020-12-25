@@ -1,0 +1,16 @@
+.AnswerItem {
+ border: 1px solid black;
+ border-radius: 5px;
+ margin-bottom: 5px;
+ list-style-type: none;
+}
+
+.AnswerItem:hover {
+    background-color: rgba(255, 255, 255, .3);
+}
+.right {
+     background-color: green;
+ }
+.false {
+    background-color: red;
+}
